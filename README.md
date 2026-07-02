@@ -22,7 +22,7 @@ Respuestas en [respuestas_evaluacion_modulo_5.sql](respuestas_evaluacion_modulo_
 
 ![P2 Act1](capturas/p2_a1_modelo_entidad_relacion_img.png)
 
-**Act 2.** Scripts de creación de tablas, llaves y datos migrados desde el modelo original.
+**Act 2.** Scripts de creación de tablas, llaves y datos migrados desde el modelo original, pueden verse en el archivo respuestas_evaluacion_modulo_5.sql
 
 **Act 3.** Consulta con todas las teleseries y sus actores protagónicos asociados.
 
